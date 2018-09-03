@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-masterclass-homework-1",
+  "version": "0.1.0",
+  "description": "NodeJS Master Class Homework Assignment #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C. Daniel Chase <dan@cdchase.com> (https://www.cdchase.com/)",
+  "homepage": "https://github.com/cdchase/nodejs-masterclass-homework-1",
+  "repository": "github:cdchase/nodejs-masterclass-homework-1",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
